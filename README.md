@@ -1,3 +1,5 @@
+![logo](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2b1c-622f-99b6-69403a851b70/raw?se=2025-07-21T09%3A03%3A06Z&sp=r&sv=2024-08-04&sr=b&scid=c928e2b0-9cc9-5d33-bb12-4ed1f33cf9ce&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-21T00%3A20%3A57Z&ske=2025-07-22T00%3A20%3A57Z&sks=b&skv=2024-08-04&sig=Df1J1pMMy7/a1MJZ205Tzo5vILWRPIz6sTSI66%2Ba7vQ%3D)
+
 <h1 align="center">Hi 👋, I'm Rudhra Tak</h1>
 <h3 align="center">Frontend Developer</h3>
 
